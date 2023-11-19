@@ -1,6 +1,6 @@
 import axios from "axios"
 
-const apiURL="http://localhost:3000"
+const apiURL="https://visual-master-backend.vercel.app"
 
 const DateFormat=(num)=>{
     let dateParts = num.split('/');
